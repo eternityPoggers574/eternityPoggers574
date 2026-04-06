@@ -1,10 +1,6 @@
-### Hi! My name is r4t (u can call me pete lol) and im a programmer and... i use arch btw
-
-- 🔭 I’m currently working on some python programs and freelance!
-- 🌱 I’m currently learning assembly and javascript!
-- 📫 How to reach me: discord: r4t#6066 (and is just it lol)
-- ⚡ Fun fact: sou o famoso espanca lups
-
+### Hi! My name is Pedro
+- 🌱 I’m currently learning python and reactjs
+- 📫 How to reach me: discord: vamonospest
 <div>
   <a href="https://github.com/eternityPoggers574">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eternityPoggers574&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
