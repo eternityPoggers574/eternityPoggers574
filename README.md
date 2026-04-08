@@ -13,7 +13,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/qC5VTJgzcdC61Ilb9n/giphy.gif?cid=790b7611851205580fad1f13acdb8267e47d0cb5ff3620c2&rid=giphy.gif&ct=g">
 </div>
   
   ##
