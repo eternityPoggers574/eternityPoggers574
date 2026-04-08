@@ -1,6 +1,6 @@
 ### Hi! My name is Pedro
 - 🌱 I’m currently learning python and reactjs
-- 📫 How to reach me: discord: vamonospest
+- 📫 Hit me up on discord!: vamonospest
 <div>
   <a href="https://github.com/eternityPoggers574">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eternityPoggers574&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
